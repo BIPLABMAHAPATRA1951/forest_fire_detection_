@@ -1,0 +1,6 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: ['Heavy smoke', 'Large fire', 'Low smoke', 'Medium fire', 'Small fire']
